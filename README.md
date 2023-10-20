@@ -1,0 +1,1 @@
+# Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu
